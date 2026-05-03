@@ -1,9 +1,7 @@
 # Medical Charges Prediction
 
 ## Project Description
-
-This project was developed as part of the **Machine Learning / Regression** module in the Master ISI program.  
-
+  
 The main objective is to **predict individual medical charges** (`charges`) billed by health insurance in the United States, based on personal and medical characteristics of the insured person.
 
 ## Dataset
